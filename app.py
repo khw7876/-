@@ -6,7 +6,7 @@ import hashlib
 import datetime
 from pymongo import MongoClient
 
-client = MongoClient('mongodb+srv://test:sparta@cluster0.alyd7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', tlsCAFile=certifi.where())
+client = MongoClient(')
 db = client.sparta
 
 
